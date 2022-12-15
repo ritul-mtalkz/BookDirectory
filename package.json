@@ -1,0 +1,14 @@
+{
+  "name": "bookdirectory",
+  "version": "1.0.0",
+  "description": "Node js basic data",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ritul Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
